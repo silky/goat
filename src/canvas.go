@@ -43,7 +43,7 @@ func isJoint(r rune) bool {
 }
 
 func isDot(r rune) bool {
-	return r == 'o' || r == '*'
+	return r == 'o'
 }
 
 func isTriangle(r rune) bool {
