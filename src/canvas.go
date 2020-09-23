@@ -471,11 +471,11 @@ func (c *Canvas) getLinesForSegment(segment rune) []Line {
 	case '/':
 		iter = diagUp
 		orientation = NE
-		passThroughs = append(jointRunes, 'o', '*', '<', '>', '^', 'v', '|')
+		passThroughs = append(jointRunes, 'o', '<', '>', '^', 'v', '|')
 	case '\\':
 		iter = diagDown
 		orientation = SE
-		passThroughs = append(jointRunes, 'o', '*', '<', '>', '^', 'v', '|')
+		passThroughs = append(jointRunes, 'o', '<', '>', '^', 'v', '|')
 	default:
 		return nil
 	}
@@ -725,15 +725,6 @@ func (c *Canvas) Triangles() []Drawable {
 // Circles returns a slice of all 'o' and '*' characters not considered text.
 func (c *Canvas) Circles() []Circle {
 	var circles []Circle
-
-	for idx := range upDown(c.Width, c.Height) {
-		// TODO INCOMING
-		if c.runeAt(idx) == 'o' {
-			circles = append(circles, Circle{start: idx})
-		} else if c.runeAt(idx) == '*' {
-			circles = append(circles, Circle{start: idx, bold: true})
-		}
-	}
 
 	return circles
 }
