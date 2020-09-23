@@ -925,11 +925,6 @@ func (c *Canvas) isText(i Index) bool {
 		return false
 	}
 
-	// Circles surrounded by whitespace shouldn't be shown as text.
-	if c.runeAt(i) == 'o' || c.runeAt(i) == '*' {
-		return false
-	}
-
 	// We're surrounded by whitespace + text on either side.
 	if !c.isReserved(w.west()) || !c.isReserved(e.east()) {
 		return true
