@@ -26,6 +26,14 @@ func (i *Index) west() Index {
 	return Index{i.x - 1, i.y}
 }
 
+func (i *Index) westWest() Index {
+	return Index{i.x - 2, i.y}
+}
+
+func (i *Index) eastEast() Index {
+	return Index{i.x + 2, i.y}
+}
+
 func (i *Index) north() Index {
 	return Index{i.x, i.y - 1}
 }

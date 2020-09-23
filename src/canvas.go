@@ -4,10 +4,11 @@ import (
 	"bufio"
 	"bytes"
 	"io"
+	"log"
 )
 
 // Characters where more than one line segment can come together.
-var jointRunes = []rune{'.', '\'', '+', '*', 'o'}
+var jointRunes = []rune{'.', '\'', '+', 'o'}
 
 var reservedRunes = map[rune]bool{
 	'-':  true,
@@ -18,7 +19,6 @@ var reservedRunes = map[rune]bool{
 	'>':  true,
 	'<':  true,
 	'o':  true,
-	'*':  true,
 	'+':  true,
 	'.':  true,
 	'\'': true,
@@ -43,7 +43,7 @@ func isJoint(r rune) bool {
 }
 
 func isDot(r rune) bool {
-	return r == 'o'
+	return false
 }
 
 func isTriangle(r rune) bool {
@@ -137,6 +137,7 @@ func NewCanvas(in io.Reader) Canvas {
 	// Extract everything we detect as text to make diagram parsing easier.
 	for idx := range leftRight(width, height) {
 		if c.isText(idx) {
+			log.Print("is text:", idx)
 			c.text[idx] = c.runeAt(idx)
 		}
 	}
@@ -891,6 +892,19 @@ func (c *Canvas) isText(i Index) bool {
 		return true
 	}
 
+	if (c.runeAt(i.west()) == '.' && c.runeAt(i.east()) == '.' && c.runeAt(i) == '.') {
+		return true
+	}
+	if (c.runeAt(i.westWest()) == '.' && c.runeAt(i.west()) == '.' && c.runeAt(i) == '.') {
+		return true
+	}
+	if (c.runeAt(i) == '.' && c.runeAt(i.east()) == '.' && c.runeAt(i.eastEast()) == '.') {
+		return true
+	}
+	if (c.runeAt(i) == '.' && c.runeAt(i.east()) == ' ' && c.runeAt(i.west()) == ' ') {
+		return true
+	}
+
 	if c.runeAt(i) == ' ' {
 		return false
 	}
@@ -924,7 +938,7 @@ func (c *Canvas) isText(i Index) bool {
 	if !(c.runeAt(w) == ' ' && c.runeAt(e) == ' ') {
 		return false
 	}
-
+	
 	// We're surrounded by whitespace + text on either side.
 	if !c.isReserved(w.west()) || !c.isReserved(e.east()) {
 		return true
@@ -949,7 +963,7 @@ func (c *Canvas) hasLineAboveOrBelow(i Index) bool {
 	r := c.runeAt(i)
 
 	switch r {
-	case '*', 'o', '+', 'v', '^':
+	case '+', 'v', '^':
 		return c.partOfDiagonalLine(i) || c.partOfVerticalLine(i)
 	case '|':
 		return c.partOfVerticalLine(i) || c.partOfRoundedCorner(i)
