@@ -151,16 +151,16 @@ func (l Line) Draw(out io.Writer) {
 func (t Triangle) Draw(out io.Writer) {
 	// https://www.w3.org/TR/SVG/shapes.html#PolygonElement
 
-	/*
-		   	+-----+-----+
-		    |    /|\    |
-		    |   / | \   |
-		  x +- / -+- \ -+
-			| /   |   \ |
-			|/    |    \|
-		    +-----+-----+
-		          y
-	*/
+/*
+    +-----+-----+
+    |    /|\    |
+    |   / | \   |
+  x +- / -+- \ -+
+    | /   |   \ |
+    |/    |    \|
+    +-----+-----+
+          y
+*/
 
 	x, y := float32(t.start.asPixel().x), float32(t.start.asPixel().y)
 	r := 0.0
@@ -168,9 +168,9 @@ func (t Triangle) Draw(out io.Writer) {
 	x0 := x + 8
 	y0 := y
 	x1 := x - 4
-	y1 := y - 0.35*16
+	y1 := y - 0.25*16
 	x2 := x - 4
-	y2 := y + 0.35*16
+	y2 := y + 0.25*16
 
 	switch t.orientation {
 	case N:
