@@ -4,8 +4,7 @@ import (
 	"log"
 	"os"
 
-	/*"github.com/sw46/goat/src"*/
-	"./src"
+	"github.com/sw46/goat/src"
 
 	"gopkg.in/alecthomas/kingpin.v2"
 )
