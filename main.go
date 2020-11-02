@@ -3,28 +3,19 @@ package main
 import (
 	"log"
 	"os"
-
-	"github.com/sw46/goat/src"
-
-	"gopkg.in/alecthomas/kingpin.v2"
-)
-
-var (
-	fileName = kingpin.Arg(
-		"file",
-		"Path to a file containing an ASCII diagram.",
-	).Required().String()
 )
 
 func main() {
-	kingpin.Version("0.0.1")
-	kingpin.Parse()
+	args := os.Args[1:]
+	if len(args) != 1 {
+		log.Fatal("Expecting argument: Path to a file containing an ASCII diagram.")
+	}
 
-	file, err := os.Open(*fileName)
+	file, err := os.Open(args[0])
 
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	goat.ASCIItoSVG(file, os.Stdout)
+	ASCIItoSVG(file, os.Stdout)
 }

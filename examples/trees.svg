@@ -1,92 +1,58 @@
-<svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='153' width='712'>
+<svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='153' width='488'>
 <g transform='translate(8,16)'>
-<path d='M 472,16 L 496,16' style='fill:none;stroke:#000;'></path>
-<path d='M 608,16 L 616,16' style='fill:none;stroke:#000;'></path>
-<path d='M 440,32 L 472,32' style='fill:none;stroke:#000;'></path>
-<path d='M 584,32 L 592,32' style='fill:none;stroke:#000;'></path>
-<path d='M 176,48 L 208,48' style='fill:none;stroke:#000;'></path>
-<path d='M 208,48 L 240,48' style='fill:none;stroke:#000;'></path>
-<path d='M 328,48 L 344,48' style='fill:none;stroke:#000;'></path>
-<path d='M 344,48 L 360,48' style='fill:none;stroke:#000;'></path>
-<path d='M 472,48 L 496,48' style='fill:none;stroke:#000;'></path>
-<path d='M 608,48 L 616,48' style='fill:none;stroke:#000;'></path>
-<path d='M 416,64 L 440,64' style='fill:none;stroke:#000;'></path>
-<path d='M 544,64 L 568,64' style='fill:none;stroke:#000;'></path>
-<path d='M 160,80 L 176,80' style='fill:none;stroke:#000;'></path>
-<path d='M 176,80 L 192,80' style='fill:none;stroke:#000;'></path>
-<path d='M 224,80 L 240,80' style='fill:none;stroke:#000;'></path>
-<path d='M 240,80 L 256,80' style='fill:none;stroke:#000;'></path>
-<path d='M 472,80 L 496,80' style='fill:none;stroke:#000;'></path>
-<path d='M 608,80 L 616,80' style='fill:none;stroke:#000;'></path>
-<path d='M 440,96 L 472,96' style='fill:none;stroke:#000;'></path>
-<path d='M 584,96 L 592,96' style='fill:none;stroke:#000;'></path>
-<path d='M 472,112 L 496,112' style='fill:none;stroke:#000;'></path>
-<path d='M 608,112 L 616,112' style='fill:none;stroke:#000;'></path>
-<path d='M 160,80 L 160,96' style='fill:none;stroke:#000;'></path>
-<path d='M 176,48 L 176,80' style='fill:none;stroke:#000;'></path>
-<path d='M 192,80 L 192,96' style='fill:none;stroke:#000;'></path>
-<path d='M 208,16 L 208,48' style='fill:none;stroke:#000;'></path>
-<path d='M 224,80 L 224,96' style='fill:none;stroke:#000;'></path>
-<path d='M 240,48 L 240,80' style='fill:none;stroke:#000;'></path>
-<path d='M 256,80 L 256,96' style='fill:none;stroke:#000;'></path>
-<path d='M 312,64 L 312,80' style='fill:none;stroke:#000;'></path>
-<path d='M 344,16 L 344,48' style='fill:none;stroke:#000;'></path>
-<path d='M 376,64 L 376,80' style='fill:none;stroke:#000;'></path>
-<path d='M 440,32 L 440,64' style='fill:none;stroke:#000;'></path>
-<path d='M 440,64 L 440,96' style='fill:none;stroke:#000;'></path>
-<path d='M 472,16 L 472,32' style='fill:none;stroke:#000;'></path>
-<path d='M 472,32 L 472,48' style='fill:none;stroke:#000;'></path>
-<path d='M 472,80 L 472,96' style='fill:none;stroke:#000;'></path>
-<path d='M 472,96 L 472,112' style='fill:none;stroke:#000;'></path>
-<path d='M 568,48 L 568,64' style='fill:none;stroke:#000;'></path>
-<path d='M 568,64 L 568,80' style='fill:none;stroke:#000;'></path>
-<path d='M 40,96 L 56,64' style='fill:none;stroke:#000;'></path>
-<path d='M 56,64 L 80,16' style='fill:none;stroke:#000;'></path>
-<path d='M 88,96 L 104,64' style='fill:none;stroke:#000;'></path>
-<path d='M 656,64 L 672,32' style='fill:none;stroke:#000;'></path>
-<path d='M 672,32 L 680,16' style='fill:none;stroke:#000;'></path>
-<path d='M 672,96 L 680,80' style='fill:none;stroke:#000;'></path>
-<path d='M 56,64 L 72,96' style='fill:none;stroke:#000;'></path>
-<path d='M 80,16 L 104,64' style='fill:none;stroke:#000;'></path>
-<path d='M 104,64 L 120,96' style='fill:none;stroke:#000;'></path>
-<path d='M 656,64 L 672,96' style='fill:none;stroke:#000;'></path>
-<path d='M 672,96 L 680,112' style='fill:none;stroke:#000;'></path>
-<path d='M 672,32 L 680,48' style='fill:none;stroke:#000;'></path>
-<path d='M 608,16 A 16,16 0 0,0 592,32' style='fill:none;stroke:#000;'></path>
-<path d='M 584,32 A 16,16 0 0,0 568,48' style='fill:none;stroke:#000;'></path>
-<path d='M 328,48 A 16,16 0 0,0 312,64' style='fill:none;stroke:#000;'></path>
-<path d='M 360,48 A 16,16 0 0,1 376,64' style='fill:none;stroke:#000;'></path>
-<path d='M 592,32 A 16,16 0 0,0 608,48' style='fill:none;stroke:#000;'></path>
-<path d='M 312,80 A 16,16 0 0,0 296,96' style='fill:none;stroke:#000;'></path>
-<path d='M 312,80 A 16,16 0 0,1 328,96' style='fill:none;stroke:#000;'></path>
-<path d='M 376,80 A 16,16 0 0,0 360,96' style='fill:none;stroke:#000;'></path>
-<path d='M 376,80 A 16,16 0 0,1 392,96' style='fill:none;stroke:#000;'></path>
-<path d='M 608,80 A 16,16 0 0,0 592,96' style='fill:none;stroke:#000;'></path>
-<path d='M 568,80 A 16,16 0 0,0 584,96' style='fill:none;stroke:#000;'></path>
-<path d='M 592,96 A 16,16 0 0,0 608,112' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='20' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='192' y='116' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='512' y='20' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='512' y='52' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='52' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='512' y='84' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='40' y='116' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='72' y='116' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='88' y='116' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='224' y='116' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='512' y='116' style='fill:#000;font-size:1em'>4</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='116' style='fill:#000;font-size:1em'>4</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='52' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='120' y='116' style='fill:#000;font-size:1em'>4</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='160' y='116' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='256' y='116' style='fill:#000;font-size:1em'>4</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='328' y='116' style='fill:#000;font-size:1em'>2</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='360' y='116' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='116' style='fill:#000;font-size:1em'>4</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='20' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='84' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='84' style='fill:#000;font-size:1em'>3</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='296' y='116' style='fill:#000;font-size:1em'>1</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='392' y='116' style='fill:#000;font-size:1em'>4</text>
+<path d='M 352,16 Q 359.034952,15.038356 366.069904,16.000000 Q 371.034952,16.510835 376.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 320,32 Q 322.992278,32.346835 325.984555,32.000000 Q 330.741394,31.454922 335.498233,32.000000 Q 339.605212,31.543665 343.712191,32.000000 Q 347.856096,31.582713 352.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 176,48 Q 183.593135,47.534050 191.186270,48.000000 Q 196.392806,47.402877 201.599341,48.000000 Q 204.799671,48.395076 208.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 208,48 Q 212.049370,47.349594 216.098740,48.000000 Q 222.527392,47.681805 228.956045,48.000000 Q 234.478022,47.161474 240.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,48 Q 358.961064,48.341154 365.922129,48.000000 Q 370.683549,48.382499 375.444969,48.000000 Q 375.722485,48.307729 376.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 296,64 Q 302.479393,64.464279 308.958786,64.000000 Q 314.479393,63.500261 320.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 160,80 Q 164.728342,80.722885 169.456684,80.000000 Q 172.728342,79.675695 176.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 176,80 Q 183.608087,80.483747 191.216175,80.000000 Q 191.608087,80.329074 192.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,80 Q 231.976736,79.554086 239.953472,80.000000 Q 239.976736,79.698412 240.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,80 Q 248.000000,79.627330 256.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,80 Q 361.452401,78.797347 370.904802,80.000000 Q 373.452401,79.518889 376.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 320,96 Q 327.371171,96.706715 334.742342,96.000000 Q 340.270867,95.627769 345.799391,96.000000 Q 348.899696,95.600144 352.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,112 Q 359.334048,111.637279 366.668097,112.000000 Q 371.334048,111.527503 376.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 160,80 Q 159.578016,86.514614 160.000000,93.029228 Q 159.681172,94.514614 160.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 176,48 Q 176.542569,53.577421 176.000000,59.154843 Q 175.286790,65.780945 176.000000,72.407046 Q 176.300195,76.203523 176.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 192,80 Q 191.426179,85.499878 192.000000,90.999756 Q 191.692582,93.499878 192.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 208,16 Q 207.469092,18.521323 208.000000,21.042646 Q 208.845950,27.738089 208.000000,34.433532 Q 207.343603,40.371851 208.000000,46.310170 Q 208.321097,47.155085 208.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,80 Q 223.624356,84.356000 224.000000,88.711999 Q 224.552835,92.356000 224.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,48 Q 240.938489,54.544076 240.000000,61.088152 Q 239.345634,65.793199 240.000000,70.498246 Q 239.304760,75.249123 240.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 256,80 Q 256.659280,87.208760 256.000000,94.417519 Q 255.668966,95.208760 256.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 320,32 Q 320.841886,41.472087 320.000000,50.944175 Q 320.608794,56.532395 320.000000,62.120615 Q 319.625087,63.060307 320.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 320,64 Q 319.370740,72.372762 320.000000,80.745525 Q 319.409600,84.670770 320.000000,88.596016 Q 320.468493,91.833895 320.000000,95.071773 Q 320.303536,95.535886 320.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,16 Q 352.350951,19.697382 352.000000,23.394764 Q 352.545616,27.697382 352.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,32 Q 351.201645,39.631313 352.000000,47.262627 Q 351.673588,47.631313 352.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,80 Q 352.307966,82.596194 352.000000,85.192389 Q 351.264596,90.460726 352.000000,95.729064 Q 352.303427,95.864532 352.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,96 Q 351.432120,102.662516 352.000000,109.325032 Q 351.655680,110.662516 352.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 40,96 Q 43.775364,89.220505 46.933742,82.132516 Q 49.107995,76.973687 51.930507,72.138987 Q 53.073917,69.143177 54.784518,66.430963 Q 55.020781,65.029743 56.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 56,64 Q 57.554771,60.199923 59.661970,56.676060 Q 61.544855,54.042838 62.521701,50.956598 Q 65.667789,45.974069 67.766159,40.467681 Q 71.675745,33.993931 74.508994,26.982012 Q 76.810824,21.269169 80.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 88,96 Q 90.183046,90.938711 92.922250,86.155501 Q 95.036225,80.822742 98.034047,75.931906 Q 100.505416,72.390839 101.855448,68.289104 Q 103.330266,66.345823 104.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 432,64 Q 432.895565,61.045200 434.722066,58.555867 Q 440.133332,50.267619 443.517171,40.965658 Q 444.842070,36.754783 447.415831,33.168339 Q 448.013007,32.736715 448.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 448,32 Q 451.568938,25.689874 454.475676,19.048648 Q 454.959029,17.384920 456.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 448,96 Q 450.377634,88.950122 454.590956,82.818087 Q 454.933957,81.228283 456.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 56,64 Q 58.507484,68.145051 60.319034,72.638068 Q 64.742415,80.208408 68.144658,88.289316 Q 70.617675,91.871985 72.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,16 Q 85.181023,23.716112 88.245299,32.490598 Q 92.606656,39.743378 95.792066,47.584133 Q 99.094679,52.356196 100.930762,57.861525 Q 102.627427,60.168186 103.454757,62.909515 Q 103.413253,63.611820 104.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 104,64 Q 105.883679,66.896065 107.070324,70.140648 Q 109.515913,74.352656 111.418167,78.836333 Q 114.093737,83.398421 116.138065,88.276129 Q 118.642888,91.851137 120.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 432,64 Q 434.647723,68.379765 436.562902,73.125803 Q 439.402127,77.445626 441.154450,82.308900 Q 443.331298,87.483543 446.164904,92.329807 Q 447.392789,94.009735 448.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 448,96 Q 450.723155,100.374762 452.589072,105.178144 Q 453.797155,108.837763 456.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 448,32 Q 452.510090,39.744955 456.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='472' y='116' style='fill:#000;font-size:10pt'>4</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='20' style='fill:#000;font-size:10pt'>1</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='472' y='84' style='fill:#000;font-size:10pt'>3</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='160' y='116' style='fill:#000;font-size:10pt'>1</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='40' y='116' style='fill:#000;font-size:10pt'>1</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='88' y='116' style='fill:#000;font-size:10pt'>3</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='116' style='fill:#000;font-size:10pt'>4</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='72' y='116' style='fill:#000;font-size:10pt'>2</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='224' y='116' style='fill:#000;font-size:10pt'>3</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='256' y='116' style='fill:#000;font-size:10pt'>4</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='472' y='20' style='fill:#000;font-size:10pt'>1</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='472' y='52' style='fill:#000;font-size:10pt'>2</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='84' style='fill:#000;font-size:10pt'>3</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='52' style='fill:#000;font-size:10pt'>2</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='192' y='116' style='fill:#000;font-size:10pt'>2</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='116' style='fill:#000;font-size:10pt'>4</text>
 </g>
 </svg>

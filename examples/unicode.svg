@@ -1,205 +1,205 @@
 <svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='137' width='744'>
 <g transform='translate(8,16)'>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='136' y='68' style='fill:#000;font-size:1em'>║</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='184' y='84' style='fill:#000;font-size:1em'>═</text>
-<rect x='556' y='72' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='400' y='36' style='fill:#000;font-size:1em'>╍</text>
-<rect x='556' y='56' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='144' y='84' style='fill:#000;font-size:1em'>═</text>
-<rect x='580' y='72' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='96' y='52' style='fill:#000;font-size:1em'>╎</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='200' y='84' style='fill:#000;font-size:1em'>╝</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='360' y='84' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='4' style='fill:#000;font-size:1em'>▢</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='376' y='20' style='fill:#000;font-size:1em'>➗</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='56' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='272' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='352' y='36' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='344' y='20' style='fill:#000;font-size:1em'>➕</text>
-<path d='M 492,24 L 500,40' style='fill:none;stroke:#000;'></path>
-<rect x='572' y='40' width='8' height='16' fill='rgb(128,128,128)'></rect><rect x='572' y='72' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='32' y='116' style='fill:#000;font-size:1em'>x</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='88' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='52' style='fill:#000;font-size:1em'>▚</text>
-<path d='M 508,40 L 516,24' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='312' y='4' style='fill:#000;font-size:1em'>⓵</text>
-<rect x='580' y='24' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='8' y='68' style='fill:#000;font-size:1em'>┃</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='84' style='fill:#000;font-size:1em'>◯</text>
-<rect x='564' y='72' width='8' height='16' fill='rgb(191,191,191)'></rect><rect x='580' y='104' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='588' y='104' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='4' style='fill:#000;font-size:1em'>⊕</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='432' y='68' style='fill:#000;font-size:1em'>⎜</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='576' y='100' style='fill:#000;font-size:1em'>◢</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='100' style='fill:#000;font-size:1em'>◣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='416' y='116' style='fill:#000;font-size:1em'>⋮</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='128' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='144' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='264' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='352' y='84' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='184' y='116' style='fill:#000;font-size:1em'>t</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='368' y='36' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='360' y='20' style='fill:#000;font-size:1em'>➖</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='52' style='fill:#000;font-size:1em'>⎔</text>
-<rect x='588' y='72' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='176' y='116' style='fill:#000;font-size:1em'>d</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='40' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='192' y='84' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='360' y='36' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='392' y='36' style='fill:#000;font-size:1em'>╍</text>
-<rect x='604' y='24' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='612' y='24' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='36' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='296' y='20' style='fill:#000;font-size:1em'>➀</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='256' y='36' style='fill:#000;font-size:1em'>━</text>
-<rect x='596' y='24' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='8' y='52' style='fill:#000;font-size:1em'>┃</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='376' y='84' style='fill:#000;font-size:1em'>╍</text>
-<rect x='580' y='56' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='4' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='280' y='20' style='fill:#000;font-size:1em'>❶</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='424' y='20' style='fill:#000;font-size:1em'>⎳</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='20' style='fill:#000;font-size:1em'>⬚</text>
-<rect x='588' y='24' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='96' y='68' style='fill:#000;font-size:1em'>╎</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='344' y='84' style='fill:#000;font-size:1em'>┗</text>
-<path d='M 516,72 L 524,88' style='fill:none;stroke:#000;'></path>
-<rect x='596' y='-8' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='20' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='168' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='184' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='32' y='52' style='fill:#000;font-size:1em'>╎</text>
-<path d='M 500,56 L 508,40' style='fill:none;stroke:#000;'></path>
-<path d='M 500,40 L 508,56' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='68' style='fill:#000;font-size:1em'>◯</text>
-<rect x='564' y='24' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='344' y='68' style='fill:#000;font-size:1em'>╏</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='408' y='68' style='fill:#000;font-size:1em'>╏</text>
-<rect x='604' y='56' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='408' y='36' style='fill:#000;font-size:1em'>┓</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='400' y='84' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='20' style='fill:#000;font-size:1em'>▢</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='376' y='36' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='280' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='480' y='84' style='fill:#000;font-size:1em'>⎣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='160' y='116' style='fill:#000;font-size:1em'>t</text>
-<rect x='612' y='-8' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='48' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='68' style='fill:#000;font-size:1em'>◯</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='72' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='216' y='4' style='fill:#000;font-size:1em'>↖</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='4' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='4' style='fill:#000;font-size:1em'>▢</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='136' y='84' style='fill:#000;font-size:1em'>╚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='264' y='4' style='fill:#000;font-size:1em'>✶</text>
-<rect x='588' y='-8' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='136' y='20' style='fill:#000;font-size:1em'>▶</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='80' y='36' style='fill:#000;font-size:1em'>╌</text>
-<rect x='604' y='40' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='280' y='4' style='fill:#000;font-size:1em'>✹</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='84' style='fill:#000;font-size:1em'>⏣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='8' y='20' style='fill:#000;font-size:1em'>▲</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='72' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='304' y='68' style='fill:#000;font-size:1em'>┃</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='84' style='fill:#000;font-size:1em'>⊛</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='112' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='392' y='20' style='fill:#000;font-size:1em'>❌</text>
-<rect x='564' y='40' width='8' height='16' fill='rgb(191,191,191)'></rect><rect x='612' y='40' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='52' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='20' style='fill:#000;font-size:1em'>⬚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='192' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='8' y='84' style='fill:#000;font-size:1em'>▼</text>
-<path d='M 484,88 L 492,72' style='fill:none;stroke:#000;'></path>
-<rect x='580' y='-8' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='160' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='304' y='36' style='fill:#000;font-size:1em'>┓</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='32' y='68' style='fill:#000;font-size:1em'>╎</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='368' y='84' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='4' style='fill:#000;font-size:1em'>⬚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='216' y='20' style='fill:#000;font-size:1em'>↙</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='416' y='68' style='fill:#000;font-size:1em'>⋮</text>
-<path d='M 508,56 L 516,72' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='320' y='84' style='fill:#000;font-size:1em'>⋱</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='336' y='100' style='fill:#000;font-size:1em'>⋱</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='288' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='52' style='fill:#000;font-size:1em'>⬣</text>
-<rect x='572' y='56' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='68' style='fill:#000;font-size:1em'>⏣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='296' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='480' y='52' style='fill:#000;font-size:1em'>⎡</text>
-<rect x='556' y='40' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='456' y='84' style='fill:#000;font-size:1em'>⎩</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='40' y='116' style='fill:#000;font-size:1em'>ᵢ</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='384' y='36' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='36' style='fill:#000;font-size:1em'>⎔</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='32' y='36' style='fill:#000;font-size:1em'>╭</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='152' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='168' y='84' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='88' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='64' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='88' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='176' y='36' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='408' y='52' style='fill:#000;font-size:1em'>╏</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='68' style='fill:#000;font-size:1em'>⊙</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='152' y='84' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='432' y='84' style='fill:#000;font-size:1em'>⎝</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='152' y='116' style='fill:#000;font-size:1em'>∫</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='232' y='20' style='fill:#000;font-size:1em'>↘</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='296' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='288' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='84' style='fill:#000;font-size:1em'>◯</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='24' y='116' style='fill:#000;font-size:1em'>∑</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='264' y='20' style='fill:#000;font-size:1em'>➊</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='52' style='fill:#000;font-size:1em'>⎔</text>
-<rect x='580' y='88' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='352' y='116' style='fill:#000;font-size:1em'>⋱</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='36' style='fill:#000;font-size:1em'>⊗</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='52' style='fill:#000;font-size:1em'>⬣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='52' style='fill:#000;font-size:1em'>⊘</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='200' y='68' style='fill:#000;font-size:1em'>║</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='248' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='136' y='52' style='fill:#000;font-size:1em'>║</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='344' y='52' style='fill:#000;font-size:1em'>╏</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='84' style='fill:#000;font-size:1em'>⏣</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='248' y='84' style='fill:#000;font-size:1em'>━</text>
-<path d='M 484,8 L 492,24' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='264' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='36' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='272' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='344' y='36' style='fill:#000;font-size:1em'>┏</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='68' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='168' y='116' style='fill:#000;font-size:1em'>²</text>
-<rect x='556' y='-8' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='72' y='20' style='fill:#000;font-size:1em'>◀</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='96' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='312' y='20' style='fill:#000;font-size:1em'>①</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='20' style='fill:#000;font-size:1em'>▢</text>
-<rect x='564' y='-8' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='56' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='256' y='84' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='80' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='456' y='68' style='fill:#000;font-size:1em'>⎨</text>
-<rect x='588' y='56' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='84' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='232' y='4' style='fill:#000;font-size:1em'>↗</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='80' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='160' y='84' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='240' y='84' style='fill:#000;font-size:1em'>┗</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='408' y='84' style='fill:#000;font-size:1em'>┛</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='576' y='116' style='fill:#000;font-size:1em'>◥</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='4' style='fill:#000;font-size:1em'>⬚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='240' y='36' style='fill:#000;font-size:1em'>┏</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='36' style='fill:#000;font-size:1em'>⬣</text>
-<rect x='596' y='72' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='100' style='fill:#000;font-size:1em'>⊜</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='40' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='136' y='36' style='fill:#000;font-size:1em'>╔</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='456' y='52' style='fill:#000;font-size:1em'>⎧</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='116' style='fill:#000;font-size:1em'>◤</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='32' y='84' style='fill:#000;font-size:1em'>╰</text>
-<rect x='612' y='72' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='432' y='52' style='fill:#000;font-size:1em'>⎛</text>
-<rect x='580' y='40' width='8' height='16' fill='rgb(128,128,128)'></rect><path d='M 492,72 L 500,56' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='424' y='4' style='fill:#000;font-size:1em'>⎲</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='104' y='20' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='200' y='36' style='fill:#000;font-size:1em'>╗</text>
-<rect x='556' y='24' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='36' style='fill:#000;font-size:1em'>⎔</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='384' y='84' style='fill:#000;font-size:1em'>╍</text>
-<rect x='604' y='72' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='588' y='88' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='96' y='36' style='fill:#000;font-size:1em'>╮</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='480' y='68' style='fill:#000;font-size:1em'>⎢</text>
-<rect x='596' y='56' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='304' y='84' style='fill:#000;font-size:1em'>┛</text>
-<rect x='604' y='-8' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='640' y='20' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='728' y='20' style='fill:#000;font-size:1em'>⊖</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='68' style='fill:#000;font-size:1em'>⏣</text>
-<path d='M 516,24 L 524,8' style='fill:none;stroke:#000;'></path>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='240' y='68' style='fill:#000;font-size:1em'>┃</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='48' y='36' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='36' style='fill:#000;font-size:1em'>⬣</text>
-<rect x='596' y='40' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='392' y='84' style='fill:#000;font-size:1em'>╍</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='416' y='100' style='fill:#000;font-size:1em'>⋮</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='84' style='fill:#000;font-size:1em'>▚</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='296' y='4' style='fill:#000;font-size:1em'>✩</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='8' y='36' style='fill:#000;font-size:1em'>┃</text>
-<rect x='572' y='24' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='176' y='84' style='fill:#000;font-size:1em'>═</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='416' y='84' style='fill:#000;font-size:1em'>⋮</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='200' y='52' style='fill:#000;font-size:1em'>║</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='240' y='52' style='fill:#000;font-size:1em'>┃</text>
-<rect x='588' y='40' width='8' height='16' fill='rgb(64,64,64)'></rect><rect x='564' y='56' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='64' y='84' style='fill:#000;font-size:1em'>╌</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='120' y='20' style='fill:#000;font-size:1em'>━</text>
-<rect x='612' y='56' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='632' y='68' style='fill:#000;font-size:1em'>▚</text>
-<rect x='572' y='-8' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='280' y='36' style='fill:#000;font-size:1em'>━</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='304' y='52' style='fill:#000;font-size:1em'>┃</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='96' y='84' style='fill:#000;font-size:1em'>╯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='4' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='36' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='176' y='84' style='fill:#000;font-size:10pt'>═</text>
+<rect x='556' y='72' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='84' style='fill:#000;font-size:10pt'>⊛</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='576' y='116' style='fill:#000;font-size:10pt'>◥</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='88' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='96' y='84' style='fill:#000;font-size:10pt'>╯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='84' style='fill:#000;font-size:10pt'>◯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='116' style='fill:#000;font-size:10pt'>⋮</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='344' y='20' style='fill:#000;font-size:10pt'>➕</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='68' style='fill:#000;font-size:10pt'>║</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='56' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='88' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='280' y='84' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='160' y='116' style='fill:#000;font-size:10pt'>t</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='216' y='4' style='fill:#000;font-size:10pt'>↖</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='4' style='fill:#000;font-size:10pt'>▢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='112' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='36' style='fill:#000;font-size:10pt'>⊗</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='52' style='fill:#000;font-size:10pt'>⎔</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='80' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='20' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='36' style='fill:#000;font-size:10pt'>╔</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='72' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='84' style='fill:#000;font-size:10pt'>⋮</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='116' style='fill:#000;font-size:10pt'>∫</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='36' style='fill:#000;font-size:10pt'>⎔</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='400' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<rect x='556' y='-8' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='184' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='32' y='68' style='fill:#000;font-size:10pt'>╎</text>
+<rect x='604' y='40' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='84' style='fill:#000;font-size:10pt'>═</text>
+<rect x='588' y='104' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='8' y='84' style='fill:#000;font-size:10pt'>▼</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='84' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='432' y='84' style='fill:#000;font-size:10pt'>⎝</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='100' style='fill:#000;font-size:10pt'>⊜</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='4' style='fill:#000;font-size:10pt'>⬚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='72' y='20' style='fill:#000;font-size:10pt'>◀</text>
+<rect x='596' y='40' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='84' style='fill:#000;font-size:10pt'>┛</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='480' y='84' style='fill:#000;font-size:10pt'>⎣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='424' y='4' style='fill:#000;font-size:10pt'>⎲</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='52' style='fill:#000;font-size:10pt'>⬣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='320' y='84' style='fill:#000;font-size:10pt'>⋱</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='296' y='20' style='fill:#000;font-size:10pt'>➀</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='20' style='fill:#000;font-size:10pt'>⬚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='240' y='68' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='264' y='84' style='fill:#000;font-size:10pt'>━</text>
+<rect x='604' y='72' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='304' y='68' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='344' y='68' style='fill:#000;font-size:10pt'>╏</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='312' y='4' style='fill:#000;font-size:10pt'>⓵</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='4' style='fill:#000;font-size:10pt'>▢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='32' y='36' style='fill:#000;font-size:10pt'>╭</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='240' y='52' style='fill:#000;font-size:10pt'>┃</text>
+<rect x='588' y='40' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='52' style='fill:#000;font-size:10pt'>⬣</text>
+<path d='M 500,56 Q 502.286006,49.277687 506.292252,43.415495 Q 507.486972,41.878170 508.000000,40.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 500,40 Q 501.027969,42.831484 502.676374,45.352749 Q 505.291230,49.363629 506.931021,53.862041 Q 507.774530,54.776511 508.000000,56.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='32' y='84' style='fill:#000;font-size:10pt'>╰</text>
+<rect x='612' y='-8' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='4' style='fill:#000;font-size:10pt'>⬚</text>
+<path d='M 484,8 Q 487.111381,13.171156 489.381477,18.762953 Q 491.016295,21.218698 492.000000,24.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='256' y='36' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='264' y='36' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='32' y='52' style='fill:#000;font-size:10pt'>╎</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='84' style='fill:#000;font-size:10pt'>⏣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='40' y='116' style='fill:#000;font-size:10pt'>ᵢ</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='184' y='84' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='352' y='116' style='fill:#000;font-size:10pt'>⋱</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='96' y='36' style='fill:#000;font-size:10pt'>╮</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='36' style='fill:#000;font-size:10pt'>┓</text>
+<rect x='604' y='24' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='612' y='56' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='68' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='272' y='36' style='fill:#000;font-size:10pt'>━</text>
+<rect x='580' y='24' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='296' y='84' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='456' y='84' style='fill:#000;font-size:10pt'>⎩</text>
+<path d='M 484,88 Q 485.794350,83.076091 488.656867,78.686266 Q 490.696080,75.526956 492.000000,72.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='20' style='fill:#000;font-size:10pt'>▢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='8' y='20' style='fill:#000;font-size:10pt'>▲</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='88' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='432' y='52' style='fill:#000;font-size:10pt'>⎛</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='64' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='240' y='84' style='fill:#000;font-size:10pt'>┗</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='256' y='84' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='68' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='68' style='fill:#000;font-size:10pt'>⊙</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='280' y='4' style='fill:#000;font-size:10pt'>✹</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='96' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='52' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='68' style='fill:#000;font-size:10pt'>⏣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='184' y='116' style='fill:#000;font-size:10pt'>t</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='56' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='352' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='376' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<rect x='580' y='72' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='32' y='116' style='fill:#000;font-size:10pt'>x</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='48' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<path d='M 492,24 Q 494.392674,27.330996 495.621867,31.243733 Q 498.091653,35.481507 500.000000,40.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='344' y='52' style='fill:#000;font-size:10pt'>╏</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='52' style='fill:#000;font-size:10pt'>⎔</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='344' y='84' style='fill:#000;font-size:10pt'>┗</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='368' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<path d='M 516,72 Q 520.038495,77.867812 522.309648,84.619296 Q 522.876502,86.448809 524.000000,88.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='84' style='fill:#000;font-size:10pt'>◯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='264' y='4' style='fill:#000;font-size:10pt'>✶</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='176' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='8' y='52' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='456' y='52' style='fill:#000;font-size:10pt'>⎧</text>
+<rect x='580' y='56' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='68' style='fill:#000;font-size:10pt'>◯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='192' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='352' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='200' y='84' style='fill:#000;font-size:10pt'>╝</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='100' style='fill:#000;font-size:10pt'>⋮</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='52' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='480' y='68' style='fill:#000;font-size:10pt'>⎢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='100' style='fill:#000;font-size:10pt'>◣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='20' style='fill:#000;font-size:10pt'>⬚</text>
+<rect x='556' y='24' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='200' y='52' style='fill:#000;font-size:10pt'>║</text>
+<rect x='612' y='72' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='580' y='104' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='604' y='-8' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='72' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='52' style='fill:#000;font-size:10pt'>⊘</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='160' y='84' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='4' style='fill:#000;font-size:10pt'>⊕</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='312' y='20' style='fill:#000;font-size:10pt'>①</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='64' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='400' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='304' y='52' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='336' y='100' style='fill:#000;font-size:10pt'>⋱</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='296' y='36' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='304' y='84' style='fill:#000;font-size:10pt'>┛</text>
+<rect x='564' y='72' width='8' height='16' fill='rgb(191,191,191)'></rect><rect x='580' y='88' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='264' y='20' style='fill:#000;font-size:10pt'>➊</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='200' y='36' style='fill:#000;font-size:10pt'>╗</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='376' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='240' y='36' style='fill:#000;font-size:10pt'>┏</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='456' y='68' style='fill:#000;font-size:10pt'>⎨</text>
+<rect x='564' y='56' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='288' y='84' style='fill:#000;font-size:10pt'>━</text>
+<path d='M 516,24 Q 518.471490,19.912315 520.258744,15.482513 Q 522.501897,11.927519 524.000000,8.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='248' y='36' style='fill:#000;font-size:10pt'>━</text>
+<rect x='596' y='72' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='84' style='fill:#000;font-size:10pt'>⏣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='576' y='100' style='fill:#000;font-size:10pt'>◢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='40' y='36' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='288' y='36' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='36' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='36' style='fill:#000;font-size:10pt'>⎔</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='52' style='fill:#000;font-size:10pt'>╏</text>
+<rect x='572' y='56' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='296' y='4' style='fill:#000;font-size:10pt'>✩</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='4' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='424' y='20' style='fill:#000;font-size:10pt'>⎳</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='52' style='fill:#000;font-size:10pt'>║</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='96' y='68' style='fill:#000;font-size:10pt'>╎</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='360' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='344' y='36' style='fill:#000;font-size:10pt'>┏</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='360' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<rect x='572' y='24' width='8' height='16' fill='rgb(128,128,128)'></rect><rect x='572' y='72' width='8' height='16' fill='rgb(128,128,128)'></rect><rect x='612' y='40' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='432' y='68' style='fill:#000;font-size:10pt'>⎜</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='144' y='84' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='96' y='52' style='fill:#000;font-size:10pt'>╎</text>
+<rect x='572' y='-8' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='128' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='20' style='fill:#000;font-size:10pt'>❌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='144' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='384' y='84' style='fill:#000;font-size:10pt'>╍</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='216' y='20' style='fill:#000;font-size:10pt'>↙</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='8' y='36' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='480' y='52' style='fill:#000;font-size:10pt'>⎡</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='80' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='8' y='68' style='fill:#000;font-size:10pt'>┃</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='232' y='4' style='fill:#000;font-size:10pt'>↗</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='232' y='20' style='fill:#000;font-size:10pt'>↘</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='728' y='20' style='fill:#000;font-size:10pt'>⊖</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='304' y='36' style='fill:#000;font-size:10pt'>┓</text>
+<path d='M 508,56 Q 510.482409,62.002977 513.795345,67.590690 Q 515.245766,69.621298 516.000000,72.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='84' style='fill:#000;font-size:10pt'>▚</text>
+<rect x='564' y='-8' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='20' style='fill:#000;font-size:10pt'>━</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='376' y='20' style='fill:#000;font-size:10pt'>➗</text>
+<rect x='564' y='24' width='8' height='16' fill='rgb(191,191,191)'></rect><rect x='596' y='24' width='8' height='16' fill='rgb(64,64,64)'></rect><rect x='596' y='56' width='8' height='16' fill='rgb(64,64,64)'></rect><rect x='596' y='-8' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='68' style='fill:#000;font-size:10pt'>⋮</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='24' y='116' style='fill:#000;font-size:10pt'>∑</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='20' style='fill:#000;font-size:10pt'>▢</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='160' y='36' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='368' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<rect x='556' y='40' width='8' height='16' fill='rgb(191,191,191)'></rect><path d='M 492,72 Q 494.761147,68.094126 496.229158,63.541685 Q 497.818237,59.622671 500.000000,56.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='248' y='84' style='fill:#000;font-size:10pt'>━</text>
+<rect x='612' y='24' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='604' y='56' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><rect x='588' y='88' width='8' height='16' fill='rgb(-64,-64,-64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='176' y='116' style='fill:#000;font-size:10pt'>d</text>
+<rect x='580' y='40' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='272' y='84' style='fill:#000;font-size:10pt'>━</text>
+<rect x='588' y='72' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='116' style='fill:#000;font-size:10pt'>²</text>
+<rect x='588' y='-8' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='360' y='20' style='fill:#000;font-size:10pt'>➖</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='20' style='fill:#000;font-size:10pt'>▶</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='640' y='20' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='36' style='fill:#000;font-size:10pt'>⬣</text>
+<rect x='556' y='56' width='8' height='16' fill='rgb(191,191,191)'></rect><path d='M 508,40 Q 511.835116,33.411458 514.804880,26.390240 Q 515.759428,25.373614 516.000000,24.000000 ' style='fill:none;stroke:#000;'></path>
+<rect x='588' y='24' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='36' style='fill:#000;font-size:10pt'>⬣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='68' style='fill:#000;font-size:10pt'>⏣</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='68' style='fill:#000;font-size:10pt'>╏</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='48' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='84' style='fill:#000;font-size:10pt'>╚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='280' y='36' style='fill:#000;font-size:10pt'>━</text>
+<rect x='564' y='40' width='8' height='16' fill='rgb(191,191,191)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='280' y='20' style='fill:#000;font-size:10pt'>❶</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='632' y='84' style='fill:#000;font-size:10pt'>▚</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='68' style='fill:#000;font-size:10pt'>◯</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='192' y='84' style='fill:#000;font-size:10pt'>═</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='200' y='68' style='fill:#000;font-size:10pt'>║</text>
+<rect x='588' y='56' width='8' height='16' fill='rgb(64,64,64)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='40' y='84' style='fill:#000;font-size:10pt'>╌</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='384' y='36' style='fill:#000;font-size:10pt'>╍</text>
+<rect x='572' y='40' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='116' style='fill:#000;font-size:10pt'>◤</text>
+<rect x='580' y='-8' width='8' height='16' fill='rgb(128,128,128)'></rect><text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='80' y='36' style='fill:#000;font-size:10pt'>╌</text>
 </g>
 </svg>

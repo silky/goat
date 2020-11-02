@@ -1,212 +1,136 @@
-<svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='185' width='752'>
+<svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='201' width='752'>
 <g transform='translate(8,16)'>
-<path d='M 24,0 L 48,0' style='fill:none;stroke:#000;'></path>
-<path d='M 88,0 L 112,0' style='fill:none;stroke:#000;'></path>
-<path d='M 24,16 L 48,16' style='fill:none;stroke:#000;'></path>
-<path d='M 88,16 L 112,16' style='fill:none;stroke:#000;'></path>
-<path d='M 24,32 L 48,32' style='fill:none;stroke:#000;'></path>
-<path d='M 88,32 L 112,32' style='fill:none;stroke:#000;'></path>
-<path d='M 24,48 L 48,48' style='fill:none;stroke:#000;'></path>
-<path d='M 88,48 L 112,48' style='fill:none;stroke:#000;'></path>
-<path d='M 24,144 L 48,144' style='fill:none;stroke:#000;'></path>
-<path d='M 80,144 L 104,144' style='fill:none;stroke:#000;'></path>
-<path d='M 136,144 L 160,144' style='fill:none;stroke:#000;'></path>
-<path d='M 192,144 L 216,144' style='fill:none;stroke:#000;'></path>
-<path d='M 272,144 L 296,144' style='fill:none;stroke:#000;'></path>
-<path d='M 328,144 L 352,144' style='fill:none;stroke:#000;'></path>
-<path d='M 384,144 L 408,144' style='fill:none;stroke:#000;'></path>
-<path d='M 440,144 L 464,144' style='fill:none;stroke:#000;'></path>
-<path d='M 528,144 L 544,144' style='fill:none;stroke:#000;'></path>
-<path d='M 584,144 L 600,144' style='fill:none;stroke:#000;'></path>
-<path d='M 632,144 L 648,144' style='fill:none;stroke:#000;'></path>
-<path d='M 688,144 L 704,144' style='fill:none;stroke:#000;'></path>
-<path d='M 24,80 L 24,96' style='fill:none;stroke:#000;'></path>
-<path d='M 48,80 L 48,96' style='fill:none;stroke:#000;'></path>
-<path d='M 80,96 L 80,112' style='fill:none;stroke:#000;'></path>
-<path d='M 104,96 L 104,112' style='fill:none;stroke:#000;'></path>
-<path d='M 264,0 L 264,32' style='fill:none;stroke:#000;'></path>
-<path d='M 264,64 L 264,96' style='fill:none;stroke:#000;'></path>
-<path d='M 280,0 L 280,32' style='fill:none;stroke:#000;'></path>
-<path d='M 280,64 L 280,96' style='fill:none;stroke:#000;'></path>
-<path d='M 296,0 L 296,32' style='fill:none;stroke:#000;'></path>
-<path d='M 296,64 L 296,96' style='fill:none;stroke:#000;'></path>
-<path d='M 312,0 L 312,32' style='fill:none;stroke:#000;'></path>
-<path d='M 312,64 L 312,96' style='fill:none;stroke:#000;'></path>
-<path d='M 344,0 L 344,32' style='fill:none;stroke:#000;'></path>
-<path d='M 344,64 L 344,96' style='fill:none;stroke:#000;'></path>
-<path d='M 360,0 L 360,32' style='fill:none;stroke:#000;'></path>
-<path d='M 360,64 L 360,96' style='fill:none;stroke:#000;'></path>
-<path d='M 376,0 L 376,32' style='fill:none;stroke:#000;'></path>
-<path d='M 376,64 L 376,96' style='fill:none;stroke:#000;'></path>
-<path d='M 392,0 L 392,32' style='fill:none;stroke:#000;'></path>
-<path d='M 392,64 L 392,96' style='fill:none;stroke:#000;'></path>
-<path d='M 152,16 L 160,0' style='fill:none;stroke:#000;'></path>
-<path d='M 176,16 L 184,0' style='fill:none;stroke:#000;'></path>
-<path d='M 200,32 L 208,16' style='fill:none;stroke:#000;'></path>
-<path d='M 224,32 L 232,16' style='fill:none;stroke:#000;'></path>
-<path d='M 592,32 L 608,0' style='fill:none;stroke:#000;'></path>
-<path d='M 608,32 L 624,0' style='fill:none;stroke:#000;'></path>
-<path d='M 592,96 L 608,64' style='fill:none;stroke:#000;'></path>
-<path d='M 624,32 L 640,0' style='fill:none;stroke:#000;'></path>
-<path d='M 608,96 L 624,64' style='fill:none;stroke:#000;'></path>
-<path d='M 640,32 L 656,0' style='fill:none;stroke:#000;'></path>
-<path d='M 624,96 L 640,64' style='fill:none;stroke:#000;'></path>
-<path d='M 640,96 L 656,64' style='fill:none;stroke:#000;'></path>
-<path d='M 672,32 L 688,0' style='fill:none;stroke:#000;'></path>
-<path d='M 688,32 L 704,0' style='fill:none;stroke:#000;'></path>
-<path d='M 672,96 L 688,64' style='fill:none;stroke:#000;'></path>
-<path d='M 704,32 L 720,0' style='fill:none;stroke:#000;'></path>
-<path d='M 688,96 L 704,64' style='fill:none;stroke:#000;'></path>
-<path d='M 720,32 L 736,0' style='fill:none;stroke:#000;'></path>
-<path d='M 704,96 L 720,64' style='fill:none;stroke:#000;'></path>
-<path d='M 720,96 L 736,64' style='fill:none;stroke:#000;'></path>
-<path d='M 128,80 L 136,96' style='fill:none;stroke:#000;'></path>
-<path d='M 152,80 L 160,96' style='fill:none;stroke:#000;'></path>
-<path d='M 192,96 L 200,112' style='fill:none;stroke:#000;'></path>
-<path d='M 216,96 L 224,112' style='fill:none;stroke:#000;'></path>
-<path d='M 424,64 L 440,96' style='fill:none;stroke:#000;'></path>
-<path d='M 440,64 L 456,96' style='fill:none;stroke:#000;'></path>
-<path d='M 424,0 L 440,32' style='fill:none;stroke:#000;'></path>
-<path d='M 456,64 L 472,96' style='fill:none;stroke:#000;'></path>
-<path d='M 440,0 L 456,32' style='fill:none;stroke:#000;'></path>
-<path d='M 472,64 L 488,96' style='fill:none;stroke:#000;'></path>
-<path d='M 456,0 L 472,32' style='fill:none;stroke:#000;'></path>
-<path d='M 472,0 L 488,32' style='fill:none;stroke:#000;'></path>
-<path d='M 504,64 L 520,96' style='fill:none;stroke:#000;'></path>
-<path d='M 520,64 L 536,96' style='fill:none;stroke:#000;'></path>
-<path d='M 504,0 L 520,32' style='fill:none;stroke:#000;'></path>
-<path d='M 536,64 L 552,96' style='fill:none;stroke:#000;'></path>
-<path d='M 520,0 L 536,32' style='fill:none;stroke:#000;'></path>
-<path d='M 552,64 L 568,96' style='fill:none;stroke:#000;'></path>
-<path d='M 536,0 L 552,32' style='fill:none;stroke:#000;'></path>
-<path d='M 552,0 L 568,32' style='fill:none;stroke:#000;'></path>
-<polygon points='32.000000,96.000000 20.000000,90.400002 20.000000,101.599998' style='fill:#000' transform='rotate(90.000000, 24.000000, 96.000000)'></polygon>
-<polygon points='32.000000,144.000000 20.000000,138.399994 20.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 24.000000, 144.000000)'></polygon>
-<polygon points='56.000000,32.000000 44.000000,26.400000 44.000000,37.599998' style='fill:#000' transform='rotate(0.000000, 48.000000, 32.000000)'></polygon>
-<polygon points='56.000000,96.000000 44.000000,90.400002 44.000000,101.599998' style='fill:#000' transform='rotate(90.000000, 48.000000, 96.000000)'></polygon>
-<polygon points='88.000000,96.000000 76.000000,90.400002 76.000000,101.599998' style='fill:#000' transform='rotate(270.000000, 80.000000, 96.000000)'></polygon>
-<polygon points='88.000000,144.000000 76.000000,138.399994 76.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 80.000000, 144.000000)'></polygon>
-<polygon points='112.000000,96.000000 100.000000,90.400002 100.000000,101.599998' style='fill:#000' transform='rotate(270.000000, 104.000000, 96.000000)'></polygon>
-<polygon points='120.000000,32.000000 108.000000,26.400000 108.000000,37.599998' style='fill:#000' transform='rotate(0.000000, 112.000000, 32.000000)'></polygon>
-<polygon points='148.000000,96.000000 136.000000,90.400002 136.000000,101.599998' style='fill:#000' transform='rotate(60.000000, 136.000000, 96.000000)'></polygon>
-<polygon points='144.000000,144.000000 132.000000,138.399994 132.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 136.000000, 144.000000)'></polygon>
-<polygon points='164.000000,16.000000 152.000000,10.400000 152.000000,21.600000' style='fill:#000' transform='rotate(120.000000, 152.000000, 16.000000)'></polygon>
-<polygon points='172.000000,96.000000 160.000000,90.400002 160.000000,101.599998' style='fill:#000' transform='rotate(60.000000, 160.000000, 96.000000)'></polygon>
-<polygon points='168.000000,144.000000 156.000000,138.399994 156.000000,149.600006' style='fill:#000' transform='rotate(0.000000, 160.000000, 144.000000)'></polygon>
-<polygon points='188.000000,16.000000 176.000000,10.400000 176.000000,21.600000' style='fill:#000' transform='rotate(120.000000, 176.000000, 16.000000)'></polygon>
-<polygon points='204.000000,96.000000 192.000000,90.400002 192.000000,101.599998' style='fill:#000' transform='rotate(240.000000, 192.000000, 96.000000)'></polygon>
-<polygon points='200.000000,144.000000 188.000000,138.399994 188.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 192.000000, 144.000000)'></polygon>
-<polygon points='220.000000,16.000000 208.000000,10.400000 208.000000,21.600000' style='fill:#000' transform='rotate(300.000000, 208.000000, 16.000000)'></polygon>
-<polygon points='228.000000,96.000000 216.000000,90.400002 216.000000,101.599998' style='fill:#000' transform='rotate(240.000000, 216.000000, 96.000000)'></polygon>
-<polygon points='244.000000,16.000000 232.000000,10.400000 232.000000,21.600000' style='fill:#000' transform='rotate(300.000000, 232.000000, 16.000000)'></polygon>
-<polygon points='272.000000,64.000000 260.000000,58.400002 260.000000,69.599998' style='fill:#000' transform='rotate(270.000000, 264.000000, 64.000000)'></polygon>
-<polygon points='288.000000,64.000000 276.000000,58.400002 276.000000,69.599998' style='fill:#000' transform='rotate(270.000000, 280.000000, 64.000000)'></polygon>
-<polygon points='304.000000,32.000000 292.000000,26.400000 292.000000,37.599998' style='fill:#000' transform='rotate(90.000000, 296.000000, 32.000000)'></polygon>
-<polygon points='304.000000,64.000000 292.000000,58.400002 292.000000,69.599998' style='fill:#000' transform='rotate(270.000000, 296.000000, 64.000000)'></polygon>
-<polygon points='304.000000,96.000000 292.000000,90.400002 292.000000,101.599998' style='fill:#000' transform='rotate(90.000000, 296.000000, 96.000000)'></polygon>
-<polygon points='320.000000,64.000000 308.000000,58.400002 308.000000,69.599998' style='fill:#000' transform='rotate(270.000000, 312.000000, 64.000000)'></polygon>
-<polygon points='384.000000,32.000000 372.000000,26.400000 372.000000,37.599998' style='fill:#000' transform='rotate(90.000000, 376.000000, 32.000000)'></polygon>
-<polygon points='384.000000,96.000000 372.000000,90.400002 372.000000,101.599998' style='fill:#000' transform='rotate(90.000000, 376.000000, 96.000000)'></polygon>
-<polygon points='416.000000,144.000000 404.000000,138.399994 404.000000,149.600006' style='fill:#000' transform='rotate(0.000000, 408.000000, 144.000000)'></polygon>
-<polygon points='436.000000,64.000000 424.000000,58.400002 424.000000,69.599998' style='fill:#000' transform='rotate(240.000000, 424.000000, 64.000000)'></polygon>
-<polygon points='452.000000,64.000000 440.000000,58.400002 440.000000,69.599998' style='fill:#000' transform='rotate(240.000000, 440.000000, 64.000000)'></polygon>
-<polygon points='468.000000,64.000000 456.000000,58.400002 456.000000,69.599998' style='fill:#000' transform='rotate(240.000000, 456.000000, 64.000000)'></polygon>
-<polygon points='484.000000,32.000000 472.000000,26.400000 472.000000,37.599998' style='fill:#000' transform='rotate(60.000000, 472.000000, 32.000000)'></polygon>
-<polygon points='484.000000,64.000000 472.000000,58.400002 472.000000,69.599998' style='fill:#000' transform='rotate(240.000000, 472.000000, 64.000000)'></polygon>
-<polygon points='484.000000,96.000000 472.000000,90.400002 472.000000,101.599998' style='fill:#000' transform='rotate(60.000000, 472.000000, 96.000000)'></polygon>
-<polygon points='528.000000,144.000000 516.000000,138.399994 516.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 528.000000, 144.000000)'></polygon>
-<polygon points='564.000000,32.000000 552.000000,26.400000 552.000000,37.599998' style='fill:#000' transform='rotate(60.000000, 552.000000, 32.000000)'></polygon>
-<polygon points='564.000000,96.000000 552.000000,90.400002 552.000000,101.599998' style='fill:#000' transform='rotate(60.000000, 552.000000, 96.000000)'></polygon>
-<polygon points='584.000000,144.000000 572.000000,138.399994 572.000000,149.600006' style='fill:#000' transform='rotate(180.000000, 584.000000, 144.000000)'></polygon>
-<polygon points='620.000000,64.000000 608.000000,58.400002 608.000000,69.599998' style='fill:#000' transform='rotate(300.000000, 608.000000, 64.000000)'></polygon>
-<polygon points='636.000000,32.000000 624.000000,26.400000 624.000000,37.599998' style='fill:#000' transform='rotate(120.000000, 624.000000, 32.000000)'></polygon>
-<polygon points='636.000000,64.000000 624.000000,58.400002 624.000000,69.599998' style='fill:#000' transform='rotate(300.000000, 624.000000, 64.000000)'></polygon>
-<polygon points='636.000000,96.000000 624.000000,90.400002 624.000000,101.599998' style='fill:#000' transform='rotate(120.000000, 624.000000, 96.000000)'></polygon>
-<polygon points='652.000000,64.000000 640.000000,58.400002 640.000000,69.599998' style='fill:#000' transform='rotate(300.000000, 640.000000, 64.000000)'></polygon>
-<polygon points='648.000000,144.000000 636.000000,138.399994 636.000000,149.600006' style='fill:#000' transform='rotate(0.000000, 648.000000, 144.000000)'></polygon>
-<polygon points='668.000000,64.000000 656.000000,58.400002 656.000000,69.599998' style='fill:#000' transform='rotate(300.000000, 656.000000, 64.000000)'></polygon>
-<polygon points='716.000000,32.000000 704.000000,26.400000 704.000000,37.599998' style='fill:#000' transform='rotate(120.000000, 704.000000, 32.000000)'></polygon>
-<polygon points='716.000000,96.000000 704.000000,90.400002 704.000000,101.599998' style='fill:#000' transform='rotate(120.000000, 704.000000, 96.000000)'></polygon>
-<polygon points='704.000000,144.000000 692.000000,138.399994 692.000000,149.600006' style='fill:#000' transform='rotate(0.000000, 704.000000, 144.000000)'></polygon>
-<circle cx='24' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='24' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='24' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='24' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='24' cy='112' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='48' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='48' cy='112' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='144' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='88' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='88' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='88' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='88' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='104' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='104' cy='144' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='112' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='112' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='144' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='144' cy='112' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='168' cy='112' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='184' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='208' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='216' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='240' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='264' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='264' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='264' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='280' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='280' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='280' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='296' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='296' cy='144' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='312' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='344' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='344' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='344' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='352' cy='144' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='360' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='360' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='360' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='376' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='392' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='424' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='440' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='440' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='440' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='456' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='456' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='456' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='472' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='504' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='520' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='520' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='520' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='520' cy='144' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='536' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='536' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='536' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='552' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='576' cy='144' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='592' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='592' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='608' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='608' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='608' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='624' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='640' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='656' cy='0' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='656' cy='144' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='672' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='672' cy='96' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='688' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='688' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='688' cy='96' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='704' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='712' cy='144' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='720' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='736' cy='0' r='6' style='fill:#000;stroke:#000;'></circle>
+<path d='M 24,0 Q 31.034952,-0.961644 38.069904,0.000000 Q 43.034952,0.510835 48.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,16 Q 26.992278,16.346835 29.984555,16.000000 Q 34.741394,15.454922 39.498233,16.000000 Q 43.605212,15.543665 47.712191,16.000000 Q 47.856096,15.695927 48.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,32 Q 31.593135,31.534050 39.186270,32.000000 Q 43.593135,31.448512 48.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 88,32 Q 92.698357,32.439580 97.396714,32.000000 Q 101.446084,31.349594 105.495454,32.000000 Q 108.747727,31.690795 112.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,48 Q 31.054401,47.012025 38.108802,48.000000 Q 43.054401,48.329239 48.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 88,48 Q 92.761420,48.382499 97.522840,48.000000 Q 104.104007,48.483291 110.685174,48.000000 Q 111.342587,48.316668 112.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,144 Q 32.414537,143.395557 40.829074,144.000000 Q 44.414537,144.620670 48.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,144 Q 89.826877,143.626995 99.653753,144.000000 Q 101.826877,144.352484 104.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 136,144 Q 145.496348,145.004486 154.992696,144.000000 Q 157.496348,143.654202 160.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 192,144 Q 201.227440,143.070086 210.454879,144.000000 Q 213.227440,143.674815 216.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 272,144 Q 281.452401,142.797347 290.904802,144.000000 Q 293.452401,143.518889 296.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 328,144 Q 335.371171,144.706715 342.742342,144.000000 Q 347.371171,143.639524 352.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 384,144 Q 393.222563,143.402956 402.445126,144.000000 Q 405.222563,143.676247 408.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 440,144 Q 447.170462,143.434913 454.340925,144.000000 Q 459.170462,144.390431 464.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 528,144 Q 535.210736,144.391398 542.421473,144.000000 Q 543.210736,143.665674 544.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 584,144 Q 590.626102,144.713210 597.252204,144.000000 Q 598.626102,143.699929 600.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 632,144 Q 637.499878,144.573821 642.999756,144.000000 Q 645.499878,144.307418 648.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 688,144 Q 690.521323,144.530908 693.042646,144.000000 Q 698.521323,143.253266 704.000000,144.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,0 Q 23.343603,5.938319 24.000000,11.876637 Q 24.351479,13.938319 24.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,16 Q 23.624356,20.356000 24.000000,24.711999 Q 24.552835,28.356000 24.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,80 Q 24.938489,86.544076 24.000000,93.088152 Q 23.590345,94.544076 24.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 24,96 Q 23.270037,101.168254 24.000000,106.336509 Q 24.441133,109.168254 24.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,80 Q 47.594535,82.688955 48.000000,85.377909 Q 48.603838,90.688955 48.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,96 Q 48.608794,101.588220 48.000000,107.176440 Q 47.507731,109.588220 48.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,96 Q 79.385399,104.000000 80.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 104,96 Q 103.409600,99.925246 104.000000,103.850491 Q 104.468493,107.088370 104.000000,110.326248 Q 104.306376,111.163124 104.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 208,0 Q 208.350951,3.697382 208.000000,7.394764 Q 208.673512,13.937823 208.000000,20.480882 Q 207.323878,26.240441 208.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,0 Q 223.169384,7.407026 224.000000,14.814052 Q 224.307966,17.410246 224.000000,20.006441 Q 223.264596,25.274778 224.000000,30.543116 Q 224.318430,31.271558 224.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,0 Q 239.432120,6.662516 240.000000,13.325032 Q 239.575237,17.090130 240.000000,20.855227 Q 239.667721,26.427614 240.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 264,64 Q 264.362388,69.586553 264.000000,75.173105 Q 264.317070,78.363988 264.000000,81.554870 Q 264.671762,85.935587 264.000000,90.316304 Q 264.306120,93.158152 264.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 280,64 Q 279.493509,67.197276 280.000000,70.394552 Q 279.414308,76.258035 280.000000,82.121518 Q 279.422300,89.060759 280.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 296,64 Q 296.607328,73.624124 296.000000,83.248248 Q 296.310901,88.751490 296.000000,94.254733 Q 296.329634,95.127366 296.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 312,64 Q 311.373154,68.272456 312.000000,72.544912 Q 311.202032,80.501742 312.000000,88.458571 Q 312.520409,91.501934 312.000000,94.545296 Q 311.638357,95.272648 312.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 344,64 Q 344.698135,68.358834 344.000000,72.717668 Q 343.148499,81.480946 344.000000,90.244225 Q 343.672103,93.122112 344.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 360,64 Q 360.347296,70.878761 360.000000,77.757521 Q 361.026181,85.126434 360.000000,92.495347 Q 360.415898,94.247674 360.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 376,64 Q 376.389039,68.828827 376.000000,73.657654 Q 376.570834,82.406968 376.000000,91.156281 Q 376.474018,93.578141 376.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 392,64 Q 393.183297,73.218525 392.000000,82.437049 Q 392.587232,89.218525 392.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 152,16 Q 153.836083,10.494671 157.138696,5.722608 Q 157.966026,2.981279 159.662691,0.674618 Q 160.128006,0.485639 160.000000,-0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 168,32 Q 169.186644,28.755417 171.070324,25.859352 Q 172.972577,21.375676 175.418167,17.163667 Q 175.434925,16.444754 176.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 440,32 Q 442.846509,24.172453 447.400641,17.198718 Q 449.315819,12.452680 451.963543,8.072915 Q 453.471581,3.781362 456.000000,-0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 456,32 Q 458.833605,27.153736 461.010454,21.979093 Q 461.981115,19.218333 463.607326,16.785348 Q 465.473243,11.981966 468.196398,7.607204 Q 470.621949,4.065477 472.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 472,32 Q 475.817348,23.037420 480.697003,14.605993 Q 482.830271,11.753212 483.832535,8.334929 Q 486.522108,4.470385 488.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 488,32 Q 491.300245,22.949777 496.560277,14.879447 Q 501.077240,7.838274 504.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 520,32 Q 521.764746,26.669183 524.970552,22.058895 Q 527.331633,16.263190 530.551549,10.896903 Q 533.479645,5.770830 535.823646,0.352709 Q 535.630240,0.035563 536.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 536,32 Q 538.513851,24.846113 542.728650,18.542700 Q 546.350088,12.707037 548.845755,6.308489 Q 549.993726,2.939668 552.000000,-0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 552,32 Q 555.069107,26.624035 557.528414,20.943171 Q 561.168540,12.207864 565.972710,4.054580 Q 567.274401,2.171313 568.000000,-0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 568,32 Q 569.463338,29.899314 570.265884,27.468233 Q 574.726498,19.730302 578.240474,11.519052 Q 581.487022,5.942918 584.000000,0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 592,96 Q 595.278234,90.370906 597.814569,84.370862 Q 601.745211,77.628343 604.780841,70.438319 Q 606.900585,67.474242 608.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 608,96 Q 611.489633,87.897789 615.877622,80.244756 Q 618.939979,71.622962 624.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 624,96 Q 625.710503,93.699598 626.524523,90.950954 Q 629.514205,86.233449 631.494400,81.011201 Q 632.330741,78.292840 634.003625,75.992749 Q 637.846091,70.418514 640.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 640,96 Q 641.346995,91.955504 643.774395,88.451210 Q 646.848779,83.418662 649.030187,77.939626 Q 653.035960,71.230246 656.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 672,96 Q 672.808316,93.207685 674.557179,90.885643 Q 677.465216,84.031531 681.203683,77.592634 Q 682.917748,72.377268 686.061602,67.876796 Q 686.614071,65.730033 688.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 688,96 Q 690.007033,90.389418 693.291279,85.417442 Q 695.708093,79.535232 698.963772,74.072456 Q 700.104994,71.017253 701.864423,68.271154 Q 703.335396,66.337169 704.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 704,96 Q 707.626232,86.905253 712.726290,78.547419 Q 716.930093,72.222131 719.468042,65.063916 Q 719.443166,64.386530 720.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 720,96 Q 723.404233,86.915509 728.629286,78.741428 Q 731.129799,75.113560 732.531786,70.936429 Q 734.762030,67.716283 736.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 128,80 Q 130.823795,86.722841 134.507791,93.015582 Q 134.966711,94.651383 136.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 152,80 Q 155.213956,85.475817 157.666235,91.332471 Q 158.395050,93.885269 160.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 192,96 Q 194.499222,101.855693 197.684243,107.368486 Q 199.178367,109.516120 200.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 216,96 Q 217.116686,99.425593 219.187149,102.374298 Q 221.324567,107.321653 224.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 272,0 Q 276.734761,7.872067 280.191558,16.383116 Q 284.277462,22.525587 286.739896,29.479793 Q 287.648543,30.600599 288.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 288,0 Q 290.153186,5.832589 293.527346,11.054692 Q 296.352710,15.159318 297.941193,19.882385 Q 300.451638,23.554834 301.883329,27.766659 Q 303.255924,29.726200 304.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 304,0 Q 306.603330,6.221398 310.018451,12.036902 Q 312.682891,15.780932 314.079451,20.158902 Q 317.464712,24.993885 319.301541,30.603083 Q 319.381980,31.435937 320.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 320,0 Q 322.900471,7.905935 327.484936,14.969872 Q 330.091168,18.876036 331.652360,23.304719 Q 333.115690,27.267480 335.407900,30.815800 Q 335.981365,31.269192 336.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 352,0 Q 355.701022,8.568477 360.335191,16.670382 Q 364.707041,23.930362 367.891915,31.783830 Q 367.669155,32.030316 368.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 368,0 Q 369.976943,2.663485 370.921565,5.843130 Q 374.277420,11.701347 376.950480,17.900960 Q 381.398680,24.488760 384.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 384,0 Q 386.208491,3.459048 387.650634,7.301269 Q 389.637574,10.304213 390.847766,13.695532 Q 394.315490,21.363506 398.369235,28.738469 Q 398.830983,30.546052 400.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 424,64 Q 425.139207,67.737106 427.445368,70.890736 Q 428.796522,74.338932 430.744386,77.488772 Q 432.824986,82.551428 435.626751,87.253502 Q 438.221071,91.422903 440.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 400,0 Q 402.458591,3.900620 404.103932,8.207865 Q 406.983154,13.154367 409.212823,18.425646 Q 410.954652,23.544462 414.004607,28.009215 Q 414.698089,30.156715 416.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 440,64 Q 441.450218,67.657912 443.506417,71.012834 Q 445.138939,73.214074 445.920418,75.840836 Q 448.261379,79.006310 449.389182,82.778363 Q 452.391012,87.784226 454.594604,93.189208 Q 455.015413,94.735549 456.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 456,64 Q 457.540888,68.021937 459.833905,71.667810 Q 464.463013,79.824899 468.211219,88.422439 Q 470.730719,91.898665 472.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 472,64 Q 475.980136,71.255420 479.396390,78.792780 Q 483.375475,87.557750 488.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 504,64 Q 508.475892,71.246433 511.587504,79.175007 Q 513.001461,82.959555 515.180725,86.361450 Q 518.323592,90.814111 520.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 520,64 Q 522.560878,67.791888 524.057862,72.115723 Q 526.854661,78.681635 530.429311,84.858621 Q 533.442297,89.136872 535.057106,94.114212 Q 535.186449,95.228158 536.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 536,64 Q 540.482948,70.962153 543.362901,78.725803 Q 546.515631,86.726955 551.024915,94.049830 Q 551.239198,95.161544 552.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 552,64 Q 555.755003,70.107543 558.388036,76.776072 Q 563.138750,84.465280 566.439688,92.879376 Q 566.879174,94.610023 568.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 20.000000,44.000000 L 32.000000,48.000000 L 20.000000,52.000000 M 32.000000,48.000000 L 20.000000,48.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 24.000000, 48.000000)'></path>
+<path d='M 24,96 Q 24.577907,100.000000 24.000000,104.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 28.000000,92.000000 L 40.000000,96.000000 L 28.000000,100.000000 M 40.000000,96.000000 L 28.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(90.000000, 24.000000, 96.000000)'></path>
+<path d='M 20.000000,140.000000 L 32.000000,144.000000 L 20.000000,148.000000 M 32.000000,144.000000 L 20.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 24.000000, 144.000000)'></path>
+<path d='M 44.000000,28.000000 L 56.000000,32.000000 L 44.000000,36.000000 M 56.000000,32.000000 L 44.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 48.000000, 32.000000)'></path>
+<path d='M 44.000000,44.000000 L 56.000000,48.000000 L 44.000000,52.000000 M 56.000000,48.000000 L 44.000000,48.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 48.000000, 48.000000)'></path>
+<path d='M 48,96 Q 48.613497,100.000000 48.000000,104.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 52.000000,92.000000 L 64.000000,96.000000 L 52.000000,100.000000 M 64.000000,96.000000 L 52.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(90.000000, 48.000000, 96.000000)'></path>
+<path d='M 80,88 Q 80.640806,92.000000 80.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 84.000000,92.000000 L 96.000000,96.000000 L 84.000000,100.000000 M 96.000000,96.000000 L 84.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 80.000000, 96.000000)'></path>
+<path d='M 76.000000,140.000000 L 88.000000,144.000000 L 76.000000,148.000000 M 88.000000,144.000000 L 76.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 80.000000, 144.000000)'></path>
+<path d='M 84.000000,28.000000 L 96.000000,32.000000 L 84.000000,36.000000 M 96.000000,32.000000 L 84.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 88.000000, 32.000000)'></path>
+<path d='M 104,88 Q 104.314264,90.703392 104.000000,93.406784 Q 103.599678,94.703392 104.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 108.000000,92.000000 L 120.000000,96.000000 L 108.000000,100.000000 M 120.000000,96.000000 L 108.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 104.000000, 96.000000)'></path>
+<path d='M 136,96 Q 137.897337,100.974868 140.738829,105.477658 Q 142.801215,108.522929 144.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 142.000000,92.000000 L 154.000000,96.000000 L 142.000000,100.000000 M 154.000000,96.000000 L 142.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 136.000000, 96.000000)'></path>
+<path d='M 132.000000,140.000000 L 144.000000,144.000000 L 132.000000,148.000000 M 144.000000,144.000000 L 132.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 136.000000, 144.000000)'></path>
+<path d='M 144,32 Q 145.493791,27.536226 148.168535,23.662929 Q 150.200056,20.724976 151.331506,17.336987 Q 151.976970,16.824102 152.000000,16.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 158.000000,12.000000 L 170.000000,16.000000 L 158.000000,20.000000 M 170.000000,16.000000 L 158.000000,16.000000' style='fill:none;stroke:#000' transform='rotate(120.000000, 152.000000, 16.000000)'></path>
+<path d='M 160,96 Q 162.280725,102.189826 165.864151,107.728302 Q 166.648965,110.005706 168.000000,112.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 166.000000,92.000000 L 178.000000,96.000000 L 166.000000,100.000000 M 178.000000,96.000000 L 166.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 160.000000, 96.000000)'></path>
+<path d='M 156.000000,140.000000 L 168.000000,144.000000 L 156.000000,148.000000 M 168.000000,144.000000 L 156.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 160.000000, 144.000000)'></path>
+<path d='M 176,16 Q 178.109416,10.785181 181.015622,5.968756 Q 182.663857,3.773083 183.431454,1.137091 Q 183.438985,0.430175 184.000000,-0.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 182.000000,12.000000 L 194.000000,16.000000 L 182.000000,20.000000 M 194.000000,16.000000 L 182.000000,16.000000' style='fill:none;stroke:#000' transform='rotate(300.000000, 176.000000, 16.000000)'></path>
+<path d='M 184,80 Q 186.888921,87.545621 191.192065,94.384130 Q 191.897896,95.041133 192.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 198.000000,92.000000 L 210.000000,96.000000 L 198.000000,100.000000 M 210.000000,96.000000 L 198.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 192.000000, 96.000000)'></path>
+<path d='M 188.000000,140.000000 L 200.000000,144.000000 L 188.000000,148.000000 M 200.000000,144.000000 L 188.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 192.000000, 144.000000)'></path>
+<path d='M 208,80 Q 210.132820,83.500207 211.653293,87.306587 Q 214.165706,91.483764 216.000000,96.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 222.000000,92.000000 L 234.000000,96.000000 L 222.000000,100.000000 M 234.000000,96.000000 L 222.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 216.000000, 96.000000)'></path>
+<path d='M 220.000000,28.000000 L 232.000000,32.000000 L 220.000000,36.000000 M 232.000000,32.000000 L 220.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(90.000000, 224.000000, 32.000000)'></path>
+<path d='M 260.000000,60.000000 L 272.000000,64.000000 L 260.000000,68.000000 M 272.000000,64.000000 L 260.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 264.000000, 64.000000)'></path>
+<path d='M 276.000000,60.000000 L 288.000000,64.000000 L 276.000000,68.000000 M 288.000000,64.000000 L 276.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 280.000000, 64.000000)'></path>
+<path d='M 292.000000,60.000000 L 304.000000,64.000000 L 292.000000,68.000000 M 304.000000,64.000000 L 292.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 296.000000, 64.000000)'></path>
+<path d='M 292.000000,92.000000 L 304.000000,96.000000 L 292.000000,100.000000 M 304.000000,96.000000 L 292.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(90.000000, 296.000000, 96.000000)'></path>
+<path d='M 308.000000,60.000000 L 320.000000,64.000000 L 308.000000,68.000000 M 320.000000,64.000000 L 308.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(270.000000, 312.000000, 64.000000)'></path>
+<path d='M 320.000000,28.000000 L 332.000000,32.000000 L 320.000000,36.000000 M 332.000000,32.000000 L 320.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 320.000000, 32.000000)'></path>
+<path d='M 372.000000,92.000000 L 384.000000,96.000000 L 372.000000,100.000000 M 384.000000,96.000000 L 372.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(90.000000, 376.000000, 96.000000)'></path>
+<path d='M 400.000000,28.000000 L 412.000000,32.000000 L 400.000000,36.000000 M 412.000000,32.000000 L 400.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 400.000000, 32.000000)'></path>
+<path d='M 404.000000,140.000000 L 416.000000,144.000000 L 404.000000,148.000000 M 416.000000,144.000000 L 404.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 408.000000, 144.000000)'></path>
+<path d='M 424.000000,60.000000 L 436.000000,64.000000 L 424.000000,68.000000 M 436.000000,64.000000 L 424.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 424.000000, 64.000000)'></path>
+<path d='M 440.000000,60.000000 L 452.000000,64.000000 L 440.000000,68.000000 M 452.000000,64.000000 L 440.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 440.000000, 64.000000)'></path>
+<path d='M 456.000000,60.000000 L 468.000000,64.000000 L 456.000000,68.000000 M 468.000000,64.000000 L 456.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 456.000000, 64.000000)'></path>
+<path d='M 472.000000,28.000000 L 484.000000,32.000000 L 472.000000,36.000000 M 484.000000,32.000000 L 472.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(120.000000, 472.000000, 32.000000)'></path>
+<path d='M 472.000000,60.000000 L 484.000000,64.000000 L 472.000000,68.000000 M 484.000000,64.000000 L 472.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(240.000000, 472.000000, 64.000000)'></path>
+<path d='M 472.000000,92.000000 L 484.000000,96.000000 L 472.000000,100.000000 M 484.000000,96.000000 L 472.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 472.000000, 96.000000)'></path>
+<path d='M 524.000000,140.000000 L 536.000000,144.000000 L 524.000000,148.000000 M 536.000000,144.000000 L 524.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 528.000000, 144.000000)'></path>
+<path d='M 552.000000,28.000000 L 564.000000,32.000000 L 552.000000,36.000000 M 564.000000,32.000000 L 552.000000,32.000000' style='fill:none;stroke:#000' transform='rotate(120.000000, 552.000000, 32.000000)'></path>
+<path d='M 552.000000,92.000000 L 564.000000,96.000000 L 552.000000,100.000000 M 564.000000,96.000000 L 552.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(60.000000, 552.000000, 96.000000)'></path>
+<path d='M 580.000000,140.000000 L 592.000000,144.000000 L 580.000000,148.000000 M 592.000000,144.000000 L 580.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(180.000000, 584.000000, 144.000000)'></path>
+<path d='M 608.000000,60.000000 L 620.000000,64.000000 L 608.000000,68.000000 M 620.000000,64.000000 L 608.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(300.000000, 608.000000, 64.000000)'></path>
+<path d='M 624.000000,60.000000 L 636.000000,64.000000 L 624.000000,68.000000 M 636.000000,64.000000 L 624.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(300.000000, 624.000000, 64.000000)'></path>
+<path d='M 624.000000,92.000000 L 636.000000,96.000000 L 624.000000,100.000000 M 636.000000,96.000000 L 624.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(120.000000, 624.000000, 96.000000)'></path>
+<path d='M 640.000000,60.000000 L 652.000000,64.000000 L 640.000000,68.000000 M 652.000000,64.000000 L 640.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(300.000000, 640.000000, 64.000000)'></path>
+<path d='M 644.000000,140.000000 L 656.000000,144.000000 L 644.000000,148.000000 M 656.000000,144.000000 L 644.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 648.000000, 144.000000)'></path>
+<path d='M 656.000000,60.000000 L 668.000000,64.000000 L 656.000000,68.000000 M 668.000000,64.000000 L 656.000000,64.000000' style='fill:none;stroke:#000' transform='rotate(300.000000, 656.000000, 64.000000)'></path>
+<path d='M 704.000000,92.000000 L 716.000000,96.000000 L 704.000000,100.000000 M 716.000000,96.000000 L 704.000000,96.000000' style='fill:none;stroke:#000' transform='rotate(120.000000, 704.000000, 96.000000)'></path>
+<path d='M 700.000000,140.000000 L 712.000000,144.000000 L 700.000000,148.000000 M 712.000000,144.000000 L 700.000000,144.000000' style='fill:none;stroke:#000' transform='rotate(0.000000, 704.000000, 144.000000)'></path>
 </g>
 </svg>

@@ -1,180 +1,137 @@
 <svg class='diagram' xmlns='http://www.w3.org/2000/svg' version='1.1' height='121' width='728'>
 <g transform='translate(8,16)'>
-<circle cx='16' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='16' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='16' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='16' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='16' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='32' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='32' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='32' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='32' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='32' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='48' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='64' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='64' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='64' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='64' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='64' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='80' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='104' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='104' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='104' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='104' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='104' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='120' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='120' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='120' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='120' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='120' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='136' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='136' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='136' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='136' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='136' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='152' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='152' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='152' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='152' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='152' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='168' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='192' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='192' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='192' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='192' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='192' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='208' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='208' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='208' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='208' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='208' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='224' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='224' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='224' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='224' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='224' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='240' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='240' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='240' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='240' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='240' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='256' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='256' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='256' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='256' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='256' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='280' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='288' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='288' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='296' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='296' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='296' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='304' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='304' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='312' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='312' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='312' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='320' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='320' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='328' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='328' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='328' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='336' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='336' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='344' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='368' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='376' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='376' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='384' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='384' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='384' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='392' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='392' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='400' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='400' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='400' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='408' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='408' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='416' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='416' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='416' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='424' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='424' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='432' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='456' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='464' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='464' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='472' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='472' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='472' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='480' cy='32' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='480' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='488' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='488' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='488' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='496' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='496' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='504' cy='16' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='504' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='504' cy='80' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='512' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='512' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='520' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='568' cy='16' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='568' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='568' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='584' cy='32' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='616' cy='48' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='616' cy='64' r='6' style='fill:#fff;stroke:#000;'></circle>
-<circle cx='680' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='688' cy='64' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='696' cy='48' r='6' style='fill:#000;stroke:#000;'></circle>
-<circle cx='696' cy='80' r='6' style='fill:#000;stroke:#000;'></circle>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='704' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='568' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='672' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='704' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='680' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='584' y='52' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='52' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='568' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='552' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='584' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='52' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='584' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='552' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='656' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='552' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='552' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='616' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='648' y='52' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='616' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='696' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='672' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='552' y='52' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='688' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='68' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='584' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='664' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='600' y='20' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='656' y='36' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='616' y='84' style='fill:#000;font-size:1em'>·</text>
-<text text-anchor='middle' font-family='Menlo,Lucida Console,monospace' x='712' y='52' style='fill:#000;font-size:1em'>·</text>
+<path d='M 16,16 Q 16.961644,23.034952 16.000000,30.069904 Q 15.659020,31.034952 16.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 16,32 Q 15.653165,34.992278 16.000000,37.984555 Q 16.545078,42.741394 16.000000,47.498233 Q 16.309550,47.749117 16.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 16,48 Q 16.470292,54.016674 16.000000,60.033348 Q 16.343346,62.016674 16.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 16,64 Q 16.597123,69.206536 16.000000,74.413071 Q 15.617011,77.206536 16.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 32,16 Q 32.650406,20.049370 32.000000,24.098740 Q 32.311182,28.049370 32.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 32,32 Q 32.987975,39.054401 32.000000,46.108802 Q 31.694410,47.054401 32.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 32,48 Q 31.617501,52.761420 32.000000,57.522840 Q 31.609803,60.761420 32.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 32,64 Q 31.535721,70.479393 32.000000,76.958786 Q 32.355016,78.479393 32.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,16 Q 47.277115,20.728342 48.000000,25.456684 Q 48.324305,28.728342 48.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,32 Q 47.516253,39.608087 48.000000,47.216175 Q 47.670926,47.608087 48.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,48 Q 48.445914,55.976736 48.000000,63.953472 Q 48.301588,63.976736 48.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 48,64 Q 48.372670,72.000000 48.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 64,16 Q 65.063956,24.000000 64.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 64,32 Q 64.846069,39.681291 64.000000,47.362582 Q 63.682415,47.681291 64.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 64,48 Q 64.372231,53.528525 64.000000,59.057049 Q 64.379602,61.528525 64.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 64,64 Q 64.362721,71.334048 64.000000,78.668097 Q 64.324620,79.334048 64.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,16 Q 79.578016,22.514614 80.000000,29.029228 Q 79.681172,30.514614 80.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,32 Q 80.542569,37.577421 80.000000,43.154843 Q 79.548926,45.577421 80.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,48 Q 80.300411,56.000000 80.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 80,64 Q 79.426179,69.499878 80.000000,74.999756 Q 79.692582,77.499878 80.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 192,32 Q 191.469092,34.521323 192.000000,37.042646 Q 192.746734,42.521323 192.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 192,48 Q 191.343603,53.938319 192.000000,59.876637 Q 192.351479,61.938319 192.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,16 Q 223.624356,20.356000 224.000000,24.711999 Q 224.552835,28.356000 224.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,32 Q 224.938489,38.544076 224.000000,45.088152 Q 223.590345,46.544076 224.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 224,48 Q 223.270037,53.168254 224.000000,58.336509 Q 224.441133,61.168254 224.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,16 Q 239.594535,18.688955 240.000000,21.377909 Q 240.603838,26.688955 240.000000,32.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,32 Q 240.608794,37.588220 240.000000,43.176440 Q 239.507731,45.588220 240.000000,48.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 240,48 Q 239.385399,56.000000 240.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 256,48 Q 255.409600,51.925246 256.000000,55.850491 Q 256.468493,59.088370 256.000000,62.326248 Q 256.306376,63.163124 256.000000,64.000000 ' style='fill:none;stroke:#000;'></path>
+<path d='M 256,64 Q 256.350951,67.697382 256.000000,71.394764 Q 256.545616,75.697382 256.000000,80.000000 ' style='fill:none;stroke:#000;'></path>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='656' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='496' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='704' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='240' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='376' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='512' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='384' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='208' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='568' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='424' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='568' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='672' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='568' y='52' style='fill:#000;font-size:10pt'>o</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='376' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='192' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='256' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='400' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='584' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='368' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='480' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='416' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='584' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='696' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='552' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='656' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='384' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='568' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='552' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='256' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='208' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='616' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='616' y='52' style='fill:#000;font-size:10pt'>o</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='192' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='616' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='392' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='464' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='400' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='552' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='616' y='68' style='fill:#000;font-size:10pt'>o</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='168' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='384' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='552' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='208' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='424' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='568' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='688' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='400' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='208' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='36' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='584' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='152' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='104' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='584' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='120' y='20' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='20' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='136' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='432' y='52' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='704' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='224' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='552' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='664' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='408' y='68' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='600' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='672' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='688' y='36' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='712' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='680' y='84' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='648' y='52' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='584' y='68' style='fill:#000;font-size:10pt'>·</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='488' y='84' style='fill:#000;font-size:10pt'>.</text>
+<text text-anchor='middle' font-family='Comic Mono,Liberation Mono,monospace' x='616' y='84' style='fill:#000;font-size:10pt'>·</text>
 </g>
 </svg>
