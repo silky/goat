@@ -13,6 +13,8 @@ This was used to draw the cover and all the diagrams from the book [Programming 
 
 ## Usage
 
+First, download and install the [Comic Mono](https://github.com/dtinth/comic-mono-font) font. Then:
+
 ```bash
 $ go get github.com/sw46/goat
 $ goat my-cool-diagram.txt > my-cool-diagram.svg
@@ -24,7 +26,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Trees
 
-![Trees Example](https://raw.githubusercontent.com/sw46/goat/master/examples/trees.svg)
+![Trees Example](https://raw.githubusercontent.com/sw46/goat/master/examples/trees.png)
 
 ```
           .               .                .               .--- 1          .-- 1     / 1
@@ -38,7 +40,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Overlaps
 
-![Overlaps Example](https://raw.githubusercontent.com/sw46/goat/master/examples/overlaps.svg)
+![Overlaps Example](https://raw.githubusercontent.com/sw46/goat/master/examples/overlaps.png)
 
 ```
            .-.           .-.           .-.           .-.           .-.           .-.
@@ -52,7 +54,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Line Decorations
 
-![Line Decorations Example](https://raw.githubusercontent.com/sw46/goat/master/examples/line-decorations.svg)
+![Line Decorations Example](https://raw.githubusercontent.com/sw46/goat/master/examples/line-decorations.png)
 
 ```
                 ________                            o        *          *   .--------------.
@@ -66,7 +68,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Line Ends
 
-![Line Ends Example](https://raw.githubusercontent.com/sw46/goat/master/examples/line-ends.svg)
+![Line Ends Example](https://raw.githubusercontent.com/sw46/goat/master/examples/line-ends.png)
 
 ```
    o--o    *--o     /  /   *  o  o o o o   * * * *   o o o o   * * * *      o o o o   * * * *
@@ -83,7 +85,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Dot Grids
 
-![Dot Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/dot-grids.svg)
+![Dot Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/dot-grids.png)
 
 ```
   o o o o o  * * * * *  * * o o *    o o o      * * *      o o o      *          
@@ -95,7 +97,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Large Nodes
 
-![Large Node Example](https://raw.githubusercontent.com/sw46/goat/master/examples/large-nodes.svg)
+![Large Node Example](https://raw.githubusercontent.com/sw46/goat/master/examples/large-nodes.png)
 
 ```
    .---.       .-.        .-.       .-.                                       .-.
@@ -110,7 +112,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Small Grids
 
-![Small Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/small-grids.svg)
+![Small Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/small-grids.png)
 
 ```
        ___     ___      .---+---+---+---+---.     .---+---+---+---.  .---.   .---.
@@ -124,7 +126,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Big Grids
 
-![Big Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/big-grids.svg)
+![Big Grids Example](https://raw.githubusercontent.com/sw46/goat/master/examples/big-grids.png)
 
 ```
     .----.        .----.
@@ -142,7 +144,7 @@ Here are some SVGs and the ASCII input they were generated from:
 
 ### Complicated
 
-![Complicated Example](https://raw.githubusercontent.com/sw46/goat/master/examples/complicated.svg)
+![Complicated Example](https://raw.githubusercontent.com/sw46/goat/master/examples/complicated.png)
 
 ```
 +-------------------+                           ^                      .---.
