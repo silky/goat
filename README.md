@@ -14,11 +14,6 @@ $ go get github.com/sw46/goat
 $ goat my-cool-diagram.txt > my-cool-diagram.svg
 ```
 
-## TODO
-
-* Dashed lines signaled by `:` or `=`.
-* Bold lines signaled by ???.
-
 ## Examples
 
 Here are some SVGs and the ASCII input they were generated from:
